@@ -77,10 +77,10 @@ const App = () => {
         >
           <TouchableOpacity
             style={{
-              backgroundColor: "white",
+              backgroundColor: "green",
               width: "80%",
               height: 70,
-              borderRadius: 30,
+              borderRadius: 10,
               justifyContent: "center",
               alignItems: "center",
               alignSelf: "center",
@@ -89,7 +89,7 @@ const App = () => {
           >
             <Text
               style={{
-                color: "#EC5A46",
+                color: "#fff",
                 fontSize: 16,
                 fontWeight: "bold",
               }}
